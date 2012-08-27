@@ -15,7 +15,7 @@ namespace VehicleRepairLab
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new VehicleRepairLab.Chapter1.Lesson2.Form2());
         }
     }
 }
